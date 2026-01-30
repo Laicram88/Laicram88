@@ -43,6 +43,4 @@ Aqui estão algumas das ferramentas e tecnologias que já explorei em projetos o
 
 ---
 
-[![Laicram88 stats](https://github-readme-stats.vercel.app/api?username=Laicram88)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laicram88)](https://github.com/anuraghazra/github-readme-stats)
 
